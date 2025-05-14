@@ -1,0 +1,6 @@
+how the overridding in the java works?
+Dynamic method dispatch :- it is defined as the class to the overidden method is
+resolved at the runtime rather than compile time. when the program is running java will
+determine which overidden method to run.
+when the overridden method is calling through the super class refrence variable, java determine which
+version of the method to call based on the type of the obj at the runtime
